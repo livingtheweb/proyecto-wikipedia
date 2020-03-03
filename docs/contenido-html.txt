@@ -1,0 +1,119 @@
+
+
+  <!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Metallica | Una banda de aquellas</title>
+</head>
+<body>
+
+  <!-- ===========
+    Comentarios 
+  ================ -->
+ 
+  
+
+  <!-- ==========
+      Imágenes 
+  =============== -->
+  <!-- Ruta relativa de una imagen -->
+  <!-- >> Hace referencia a una ubicación que es relativa a un directorio actual -->
+  
+
+
+  <!-- Ruta absoluta de una imgane (toda la url)
+       > Incluyen todas las partes de la URL (protocolo, servidor y ruta)      
+       > Botón detecho + "copiar dirección de imagen" -->
+ 
+
+  <!-- ================
+    Menú de navegación (luego!)
+  ===================== -->
+ 
+
+  <!-- ===========
+    Etiqueta DIV 
+  ================ -->
+ 
+
+  <!-- ========
+      Listas 
+  ============= -->
+  <div>    
+    <!-- Listas desordenadas -->   
+
+
+    <!-- Listas ordenadas -->
+    
+  </div>
+
+  <!-- =============
+      Vínculos 
+  ================== -->
+  <!-- Vínculos // externos -->
+  
+  <!-- Con ... le indicamos que se abra en una nueva pestaña -->
+  
+  <br>
+  <!-- Vínculos // internos -->
+  <!-- Usamos una ruta relativa  -->
+
+  
+  <!-- ========
+      Anclas 
+  ============= -->
+  
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+
+  
+
+  
+</body>
+</html>
